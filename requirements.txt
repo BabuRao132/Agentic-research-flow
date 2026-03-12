@@ -1,0 +1,12 @@
+# Core Agentic Framework
+langgraph
+langchain
+langchain-openai
+
+# Tools for Research & Knowledge
+tavily-python
+
+# Environment & Utilities
+python-dotenv
+pydantic
+typing-extensions
